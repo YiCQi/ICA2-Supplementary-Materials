@@ -2,9 +2,9 @@
 Benchmark on auto-annotation tools for single cell sequencing data 
 
 ### Code usage:
-- For single dataset running, use pipelines/scripts/<tool>.R or <tool>.py
+- For single dataset running, use pipelines/scripts/{tool}.R or {tool}.py
 
-- For multi dataset running, use pipelins/batch_<tool>.R or batch_<tool>.py
+- For multi dataset running, use pipelins/batch_{tool}.R or batch_{tool}.py
 
 - To get data for 5-fold cross-validation, use pipelines/cross_validation.R
 
