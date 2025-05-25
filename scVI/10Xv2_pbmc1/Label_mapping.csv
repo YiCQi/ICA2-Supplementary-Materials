@@ -1,0 +1,10 @@
+label,int
+CD14+ monocyte,0
+Dendritic cell,1
+Cytotoxic T cell,2
+CD16+ monocyte,3
+Plasmacytoid dendritic cell,4
+B cell,5
+Natural killer cell,6
+CD4+ T cell,7
+Megakaryocyte,8
